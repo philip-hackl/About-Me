@@ -55,8 +55,8 @@ I’m excited to collaborate on challenging data science projects, especially th
 ## How to Reach Me
 Feel free to connect with me via:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: [philip.hackl.94@gmail.com](mailto:philip.hackl.94@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/philip-hackl/](https://www.linkedin.com/in/philip-hackl/)
 
 ---
 
