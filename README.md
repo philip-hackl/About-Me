@@ -13,18 +13,19 @@ Ich bin 29 Jahre alt, lebe in Hamburg und arbeite als Data Scientist. Mit fundie
 
 ## Fähigkeiten & Kernkompetenzen
 
-- **Technologien & Tools**:
-  - **Python** (pandas, NumPy, scikit-learn)
-  - **SQL-Datenbanken**: MySQL, SQLite
-  - **Datenvisualisierung**: Matplotlib, Seaborn, Tableau
-  - Versionskontrolle mit **Git & GitHub**
+### Technologien & Tools:
+- **Python**: Fundierte Kenntnisse in Python, insbesondere mit **pandas**, **NumPy** und **Webscraping** für effiziente Datenanalyse und -aufbereitung.
+- **SQL-Datenbanken**: Erfahrung mit **MySQL** und **SQLite** für Datenmanagement und Abfragen.
+- **Datenvisualisierung**: Sicher im Umgang mit **Matplotlib**, **Seaborn**, **Streamlit** und **Tableau** zur Visualisierung komplexer Datensätze.
+- **Machine Learning**: Entwicklung und Bewertung von **Machine-Learning-Modellen** mit **scikit-learn**, einschließlich Regression, Klassifikation und Clustering.
+- **Versionskontrolle**: Anwendung von **Git** und **GitHub** für Versionskontrolle und kollaboratives Projektmanagement.
+- **Projektmanagement**: Kenntnisse in **Agile** und **Scrum** zur effizienten und flexiblen Umsetzung von Projekten.
 
-- **Fachliche Schwerpunkte**:
-  - Datenaufbereitung und -bereinigung
-  - Explorative Datenanalyse
-  - Entwicklung von Machine-Learning-Modellen
-  - Datenbankabfragen und -optimierung
-  - Strukturierte und lösungsorientierte Arbeitsweise
+### Fachliche Schwerpunkte:
+- **Datenaufbereitung & -bereinigung**: Strukturierung und Bereinigung von Rohdaten für präzise Analysen.
+- **Explorative Datenanalyse (EDA)**: Identifikation von Mustern und Trends zur Optimierung von Geschäftsentscheidungen.
+- **Modellentwicklung & -bewertung**: Erstellung und Optimierung von Machine-Learning-Modellen zur Lösung realer Probleme.
+- **Datenbankabfragen & -optimierung**: Entwicklung und Verbesserung von komplexen SQL-Abfragen zur Datenextraktion und -verarbeitung.
 
 ## Projektübersicht
 
