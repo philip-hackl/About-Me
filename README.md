@@ -11,22 +11,30 @@ Schauen Sie sich gerne um – und lassen Sie uns austauschen, wenn Sie Interesse
 
 Ich bin 29 Jahre alt, lebe in Hamburg und arbeite als Data Scientist. Mit fundierten Kenntnissen in Python, MySQL und Machine Learning setze ich Daten in konkrete Handlungsempfehlungen um, die strategische Entscheidungen unterstützen. Mein Ziel ist es, durch datengestützte Projekte echten Mehrwert zu schaffen – sei es durch die Entwicklung neuer Modelle, Datenanalysen oder datenbasierte Prozessoptimierung.
 
+
 ## Fähigkeiten & Kernkompetenzen
 
 ### Technologien & Tools:
 - **Python**: Fundierte Kenntnisse in Python, insbesondere mit **pandas**, **NumPy** und **Webscraping** für effiziente Datenanalyse und -aufbereitung.
-- **SQL-Datenbanken**: Erfahrung mit **MySQL** und **SQLite** für Datenmanagement und Abfragen.
-- **Microsoft Office**: Grundkenntnisse in **MS Office**, speziell in **Excel** für Datenanalyse und -visualisierung.
-- **Datenvisualisierung**: Sicher im Umgang mit **Matplotlib**, **Seaborn**, **Streamlit** und **Tableau** zur Visualisierung komplexer Datensätze.
-- **Machine Learning**: Entwicklung und Bewertung von **Machine-Learning-Modellen** mit **scikit-learn**, einschließlich Regression, Klassifikation und Clustering.
-- **Versionskontrolle**: Anwendung von **Git** und **GitHub** für Versionskontrolle und kollaboratives Projektmanagement.
-- **Projektmanagement**: Kenntnisse in **Agile** und **Scrum** zur effizienten und flexiblen Umsetzung von Projekten.
+- **SQL-Datenbanken**: Erfahrung mit **MySQL** und **SQLite** zur Datenverwaltung und -abfrage.
+- **Microsoft Office**: Solide Kenntnisse in **MS Office**, insbesondere **Excel** für Datenanalyse und -visualisierung.
+- **Datenvisualisierung**: Versiert in **Matplotlib**, **Seaborn**, **Streamlit** und **Tableau** zur Darstellung komplexer Datensätze.
+- **Machine Learning**: Anwendung von **scikit-learn** für Modellentwicklung, -bewertung und -optimierung in Bereichen wie Regression, Klassifikation und Clustering.
+- **Versionskontrolle**: Nutzung von **Git** und **GitHub** für effektive Projektverwaltung und Teamarbeit.
+- **Projektmanagement**: Erfahrung mit **Agile** und **Scrum** zur flexiblen Umsetzung von Projekten.
 
 ### Fachliche Schwerpunkte:
-- **Datenaufbereitung & -bereinigung**: Strukturierung und Bereinigung von Rohdaten für präzise Analysen.
-- **Explorative Datenanalyse (EDA)**: Identifikation von Mustern und Trends zur Optimierung von Geschäftsentscheidungen.
-- **Modellentwicklung & -bewertung**: Erstellung und Optimierung von Machine-Learning-Modellen zur Lösung realer Probleme.
-- **Datenbankabfragen & -optimierung**: Entwicklung und Verbesserung von komplexen SQL-Abfragen zur Datenextraktion und -verarbeitung.
+- **Datenaufbereitung & -bereinigung**: Bereinigung und Strukturierung von Rohdaten für präzise Analysen.
+- **Explorative Datenanalyse (EDA)**: Aufdeckung von Mustern und Trends zur Verbesserung von Geschäftsentscheidungen.
+- **Modellentwicklung & -bewertung**: Optimierung von Machine-Learning-Modellen zur Lösung praktischer Probleme.
+- **Datenbankabfragen & -optimierung**: Erstellung und Verbesserung von SQL-Abfragen zur Datenextraktion und -analyse.
+
+### Machine Learning Modelle:
+- **Regressionsmodelle**: Anwendung von **linearen** und **logistischen Regressionen** zur Vorhersage kontinuierlicher und kategorischer Variablen.
+- **Klassifikationsmodelle**: Einsatz von **Entscheidungsbäumen**, **Random Forests** und **k-Nächste-Nachbarn (k-NN)** für die Klassifikation von Daten.
+- **Clustering**: Anwendung von **K-Means** und anderen Clustering-Algorithmen zur Segmentierung von Datensätzen.
+- **Modellbewertung**: Durchführung von **Validierungen** und **Hyperparameter-Tuning** zur Optimierung der Modellleistung.
+
 
 ## Projektübersicht
 
