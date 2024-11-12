@@ -1,7 +1,9 @@
 
 # Über mich
 
-Dieses Repository dient als kompakte Vorstellung meiner beruflichen Qualifikationen und Erfahrungen. Hier erfahren Sie mehr über meine Stärken als Data Scientist, meine technische Expertise und Projekte, die ich erfolgreich umgesetzt habe. Schauen Sie sich gerne um – und lassen Sie uns austauschen, wenn Sie Interesse an einer Zusammenarbeit haben!
+Dieses Repository dient als kompakte Vorstellung meiner beruflichen Qualifikationen und Erfahrungen. Hier erfahren Sie mehr über meine Stärken als Data Scientist, meine technische Expertise und Projekte, die ich erfolgreich umgesetzt habe. 
+
+Schauen Sie sich gerne um – und lassen Sie uns austauschen, wenn Sie Interesse an einer Zusammenarbeit haben!
 
 # Hallo, ich bin Philip Hackl! 👋
 
