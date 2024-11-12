@@ -1,3 +1,63 @@
+
+# Über mich
+
+Dieses Repository dient als kompakte Vorstellung meiner beruflichen Qualifikationen und Erfahrungen. Hier erfahren Sie mehr über meine Stärken als Data Scientist, meine technische Expertise und Projekte, die ich erfolgreich umgesetzt habe. Schauen Sie sich gerne um – und lassen Sie uns austauschen, wenn Sie Interesse an einer Zusammenarbeit haben!
+
+# Hallo, ich bin Philip Hackl! 👋
+
+## Über mich
+
+Ich bin 29 Jahre alt, lebe in Hamburg und arbeite als Data Scientist. Mit fundierten Kenntnissen in Python, MySQL und Machine Learning setze ich Daten in konkrete Handlungsempfehlungen um, die strategische Entscheidungen unterstützen. Mein Ziel ist es, durch datengestützte Projekte echten Mehrwert zu schaffen – sei es durch die Entwicklung neuer Modelle, Datenanalysen oder datenbasierte Prozessoptimierung.
+
+## Fähigkeiten & Kernkompetenzen
+
+- **Technologien & Tools**:
+  - **Python** (pandas, NumPy, scikit-learn)
+  - **SQL-Datenbanken**: MySQL, SQLite
+  - **Datenvisualisierung**: Matplotlib, Seaborn, Tableau
+  - Versionskontrolle mit **Git & GitHub**
+
+- **Fachliche Schwerpunkte**:
+  - Datenaufbereitung und -bereinigung
+  - Explorative Datenanalyse
+  - Entwicklung von Machine-Learning-Modellen
+  - Datenbankabfragen und -optimierung
+  - Strukturierte und lösungsorientierte Arbeitsweise
+
+## Projektübersicht
+
+### [Gutenberg_TextAnalyse](https://github.com/philip-hackl/Gutenberg_TextAnalyse)
+**Projektziel**: Entwicklung eines Tools zur Textanalyse, das Python und scikit-learn nutzt, um Autoren anhand von Textmerkmalen zu identifizieren.
+
+### [Air-Quality-Monitoring](https://github.com/philip-hackl/Air-Quality-Monitoring)
+**Projektziel**: Ein Dashboard zur Luftqualitätsüberwachung mit einer linearen Regression zur Vorhersage von Trends.
+
+### [TicTacToe-Game](https://github.com/philip-hackl/TicTacToe-Game)
+**Projektziel**: Interaktives Tic-Tac-Toe-Spiel in Python, das verschiedene Schwierigkeitsstufen bietet und die Programmierfähigkeiten verdeutlicht.
+
+## Berufserfahrung
+
+In meiner früheren Selbstständigkeit im E-Commerce und Marketing habe ich tiefgreifende Einblicke in digitale Geschäftsmodelle, Marktstrategien und die Bedürfnisse von Kunden gewonnen. Diese Erfahrung hat meine Fähigkeit geschärft, Projekte kundenorientiert und zielgerichtet umzusetzen.
+
+## Meine Ziele
+
+Ich freue mich darauf, in einem engagierten Team spannende Projekte im Bereich Data Science umzusetzen und dabei innovative, datenbasierte Lösungen zu entwickeln, die reale Herausforderungen lösen.
+
+## Kontaktmöglichkeiten
+
+- **Email**: [philip.hackl.94@gmail.com](mailto:philip.hackl.94@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/philip-hackl/](https://www.linkedin.com/in/philip-hackl/)
+
+---
+
+Vielen Dank für Ihr Interesse an meinem Profil! Ich freue mich auf neue Herausforderungen, den Austausch über innovative Projekte und mögliche Zusammenarbeiten.
+
+
+
+---
+
+## English
+
 # About-Me
 This repository serves as a personal introduction and overview of my skills, projects, and experiences. It includes a detailed README file where you can learn more about my background as a Data Scientist, my expertise in Python and MySQL, and the real-world problems I enjoy solving. Feel free to explore and connect with me!
 
