@@ -16,6 +16,7 @@ Ich bin 29 Jahre alt, lebe in Hamburg und arbeite als Data Scientist. Mit fundie
 ### Technologien & Tools:
 - **Python**: Fundierte Kenntnisse in Python, insbesondere mit **pandas**, **NumPy** und **Webscraping** für effiziente Datenanalyse und -aufbereitung.
 - **SQL-Datenbanken**: Erfahrung mit **MySQL** und **SQLite** für Datenmanagement und Abfragen.
+- **Microsoft Office**: Grundkenntnisse in MS Office, speziell in Excel für Datenanalyse und -visualisierung.
 - **Datenvisualisierung**: Sicher im Umgang mit **Matplotlib**, **Seaborn**, **Streamlit** und **Tableau** zur Visualisierung komplexer Datensätze.
 - **Machine Learning**: Entwicklung und Bewertung von **Machine-Learning-Modellen** mit **scikit-learn**, einschließlich Regression, Klassifikation und Clustering.
 - **Versionskontrolle**: Anwendung von **Git** und **GitHub** für Versionskontrolle und kollaboratives Projektmanagement.
