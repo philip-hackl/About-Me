@@ -39,11 +39,9 @@ Interactive Python game showcasing programming skills and multiple difficulty le
 
 ## 📬 Contact
 
-- **Email**: [philip.hackl.94@gmail.com](mailto:philip.hackl.94@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/philip-hackl](https://www.linkedin.com/in/philip-hackl/)
+- **🔗 LinkedIn**: [linkedin.com/in/philip-hackl/](https://www.linkedin.com/in/philip-hackl/)  
+- **🔗 Microsoft Learn**: [learn.microsoft.com/de-de/users/philiphackl-8362/](https://learn.microsoft.com/de-de/users/philiphackl-8362/)  
+- **🔗 Tableau**: [public.tableau.com/app/profile/philip.hackl/vizzes](https://public.tableau.com/app/profile/philip.hackl/vizzes)  
+- **📧 Email**: [philip.hackl.94@gmail.com](mailto:philip.hackl.94@gmail.com)
 
-- **🔗 LinkedIn**: (linkedin.com/in/philip-hackl/)
 
-- **🔗 Microsoft Learn**: (learn.microsoft.com/de-de/users/philiphackl-8362/)
-
-- **🔗 Tableau**: (public.tableau.com/app/profile/philip.hackl/vizzes)
