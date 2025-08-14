@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Philip Hackl
 
-I'm a **Data Analyst & Data Scientist** based in Hamburg, transforming data into actionable insights to support strategic decisions. I specialize in Python, Power BI, Azure, and Machine Learning to deliver real business impact.
+I'm a **Data Analyst & Data Scientist** based in Hamburg, transforming data into actionable insights to support strategic decisions. I specialize in Python, Power BI, Azure and Machine Learning to deliver real business impact.
 
 ---
 
